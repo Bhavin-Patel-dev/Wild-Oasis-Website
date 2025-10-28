@@ -2,9 +2,9 @@
 
 Wild Oasis Website is a customer-facing web application for a boutique hotel, allowing guests to browse available cabins, make reservations, and manage their bookings. Built with modern web technologies and best practices, this project demonstrates proficiency in full-stack development, authentication, database management.
 
----
 
-## ✨ Key Features
+
+# ✨ Key Features
 
 **1.) 🏠 Cabin Management**
 
@@ -64,9 +64,10 @@ Wild Oasis Website is a customer-facing web application for a boutique hotel, al
 
 - Form validation and error messaging
 
----
 
-## 🛠️ Tech Stack
+
+
+# 🛠️ Tech Stack
 
 ### **Frontend**
 
@@ -106,9 +107,10 @@ Wild Oasis Website is a customer-facing web application for a boutique hotel, al
 
 - **Vercel (https://vercel.com/)** - Deployment platform
 
----
 
-## 🎓 Learning Outcomes
+
+
+# 🎯 Learning Outcomes
 
 This project demonstrates mastery of the following concepts:
 
@@ -194,9 +196,10 @@ This project demonstrates mastery of the following concepts:
 
 - ✅ Code organization and component structure
 
----
 
-## 📁 Project Structure
+
+
+# 📁 Project Structure
 
 ```
 wild-oasis-website/
@@ -286,9 +289,10 @@ wild-oasis-website/
 └── tailwind.config.js                # Tailwind CSS configuration
 ```
 
----
 
-## 🚀 Getting Started
+
+
+# 🚀 Getting Started
 
 ### **Prerequisites**
 
@@ -364,11 +368,11 @@ wild-oasis-website/
 
 6. **Open the application**
 
-   Navigate to (http://localhost:3000) in your browser, # or whichever server your project runs on.
+   Navigate to (http://localhost:3000) in your browser, or whichever server your project runs on.
 
----
 
-### **Getting Environment Variables**
+
+## **Getting Environment Variables**
 
 1. **Supabase:**
 
@@ -395,9 +399,10 @@ wild-oasis-website/
    openssl rand -base64 32
    ```
 
----
 
-## 📦 Database Schema
+
+
+# 📦 Database Schema
 
 ### **Cabins Table**
 
@@ -462,9 +467,9 @@ CREATE TABLE settings (
 );
 ```
 
----
 
-## 🤝 Contributing
+
+# 🤝 Contributing
 
 Contributions are more than welcome!  
 Whether it’s fixing bugs, improving documentation, or adding new features — every contribution helps make this project better.
@@ -481,9 +486,9 @@ If you’d like to contribute, please follow these simple steps:
 
 5. Open a Pull Request and describe your changes. Your ideas, feedback, and improvements are always appreciated — let’s build something great together 🚀
 
----
 
-## 📚 Additional Resources
+
+# 📚 Additional Resources
 
 - [Next.js Documentation](https://nextjs.org/docs)
 
@@ -493,6 +498,6 @@ If you’d like to contribute, please follow these simple steps:
 
 - [React Documentation](https://react.dev)
 
----
+
 
 **⭐ If you found this project helpful, please give it a star!**
